@@ -2234,10 +2234,10 @@ Please try again later"</string>
     <string name="about_joindiscord">Join our Discord server</string>
 
     <!--  links  -->
-    <string name="link_github_release">https://github.com/Sketchware-Pro/Sketchware-Pro/releases</string>
+    <string name="link_github_release">https://github.com/Synapse-QS/Sk-Pro-7.0.0-Latest/releases</string>
     <string name="link_docs_url">https://docs.sketchware.pro</string>
-    <string name="link_ideas_url">https://discord.gg/4uxhMwCt</string>
-    <string name="link_discord_invite">https://discord.gg/kq39yhT4rX</string>
+    <string name="link_ideas_url">https://discord.gg/Tf833uJT9K</string>
+    <string name="link_discord_invite">https://discord.gg/BvK2spJCwR</string>
     <string name="link_telegram_invite">https://t.me/sketchware_community_1</string>
     <string name="link_about_team">https://synapse-qs.github.io/Sk-Pro-7.0.0-Latest/about.json</string>
     <string name="link_github_commits_url"><![CDATA[https://api.github.com/repos/Synapse-QS/Sk-Pro-7.0.0-Latest/commits?per_page=%s&page=%s]]></string>
